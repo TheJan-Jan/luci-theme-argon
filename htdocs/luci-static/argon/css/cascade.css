@@ -288,12 +288,12 @@ li {
   color: var(--default);
 }
 .login-page .login-container .login-form .brand .icon {
-  width: 50px;
+  width: 70px;
   height: auto;
   margin-right: 25px;
 }
 .login-page .login-container .login-form .brand .brand-text {
-  font-size: 1.25rem;
+  font-size: 3.1rem;
   font-weight: 700;
   font-family: "TypoGraphica";
 }
